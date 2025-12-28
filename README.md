@@ -1,5 +1,4 @@
-# LegoDashboard
-LEGO Sets Interactive Dashboard (Power BI)
+# LEGO Sets Interactive Dashboard (Power BI)
 📊 Overview
 
 This project is a guided analytics project from the Maven Analytics platform, completed using Power BI. It demonstrates the ability to build an interactive dashboard to analyze LEGO sets across key product dimensions and extract meaningful business insights.
